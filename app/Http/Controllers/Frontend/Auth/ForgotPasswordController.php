@@ -22,3 +22,5 @@ class ForgotPasswordController extends Controller
         return view('frontend.auth.passwords.email');
     }
 }
+
+// fermin
