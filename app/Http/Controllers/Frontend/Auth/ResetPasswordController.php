@@ -7,6 +7,8 @@ use App\Repositories\Frontend\Access\User\UserRepository;
 use Illuminate\Foundation\Auth\ResetsPasswords;
 use Illuminate\Http\Request;
 
+// hola 
+
 /**
  * Class ResetPasswordController.
  */
