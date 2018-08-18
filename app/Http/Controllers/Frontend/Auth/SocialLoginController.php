@@ -8,6 +8,7 @@ use App\Helpers\Frontend\Auth\Socialite as SocialiteHelper;
 use App\Http\Controllers\Controller;
 use App\Repositories\Frontend\Access\User\UserRepository;
 use Illuminate\Http\Request;
+
 use Laravel\Socialite\Facades\Socialite;
 
 /**
