@@ -15,7 +15,6 @@ class ConfirmAccountController extends Controller
     /**
      * @var UserRepository
      */
-    
     protected $user;
 
     /**
